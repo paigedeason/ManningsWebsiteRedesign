@@ -1,0 +1,63 @@
+p{
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 2px;
+}
+
+a{
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 2px;
+}
+h1 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.w-100{
+    width: 100%
+}
+
+.div{
+    display: flex; 
+    margin-top: 20px;
+}
+.w-10{
+    width: 10%
+}
+
+.container{
+    display: flex; 
+    margin-top: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 140px;
+    margin-bottom: 10px;
+
+}
+
+.containerLocation{
+    display: flex;
+    flex-direction: column;
+}
+
+p3{
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: flex-start;
+    letter-spacing: 2px;
+}
+
+.wrapper{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
